@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "status": "online",
+  "publisher": "Scout",
+  "scoutVersion": "1.3.0",
+  "generatedUtc": "2026-09-19T13:49:55.3285107+00:00",
+  "searches": [
+    {
+      "id": "23d2e50a-90f2-4454-950d-688bd8b86c01",
+      "name": "9850x3d",
+      "query": "9850x3d",
+      "minimumPrice": 350,
+      "maximumPrice": 494,
+      "checkedUtc": "2026-09-19T13:49:38.2151233+00:00",
+      "resultCount": 0,
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 494,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    },
+    {
+      "id": "9b0149a1-66ac-434e-9bee-f7a076e7fbf1",
+      "name": "5080",
+      "query": "5080",
+      "minimumPrice": 800,
+      "maximumPrice": 1200,
+      "checkedUtc": "2026-09-19T13:49:38.8242051+00:00",
+      "resultCount": 0,
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 1200,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    },
+    {
+      "id": "db783e7f-cafb-4a33-b7f0-acb28c0597bd",
+      "name": "9800x3d",
+      "query": "9800x3d",
+      "minimumPrice": 200,
+      "maximumPrice": 390,
+      "checkedUtc": "2026-09-19T13:49:39.3826392+00:00",
+      "resultCount": 2,
+      "bestResult": {
+        "title": "AMD Ryzen 7 9800X3D Ryzen 9000 8-Core 4.7GHz AM5 CPU 100-100001084WOF",
+        "price": 310,
+        "shipping": 6.17,
+        "deliveredPrice": 316.17,
+        "condition": "Open box",
+        "source": "eBay",
+        "url": "https://www.ebay.com/itm/800670769485",
+        "buying": "Auction (current bid)",
+        "lastSeenUtc": "2026-09-19T13:49:39.3826392+00:00"
+      },
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 390,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    },
+    {
+      "id": "428056e5-0d9e-43b8-8901-53c79e964bb6",
+      "name": "9950x3d",
+      "query": "9950x3d",
+      "minimumPrice": 400,
+      "maximumPrice": 600,
+      "checkedUtc": "2026-09-19T13:49:39.8357101+00:00",
+      "resultCount": 14,
+      "bestResult": {
+        "title": "AMD Ryzen 9 9950X3D 4.3GHz 16-Core 32-Thread Desktop CPU 100-000000719",
+        "price": 520,
+        "shipping": 5.99,
+        "deliveredPrice": 525.99,
+        "condition": "Open box",
+        "source": "eBay",
+        "url": "https://www.ebay.com/itm/137734248410",
+        "buying": "Buy It Now",
+        "lastSeenUtc": "2026-09-19T13:49:39.8357101+00:00"
+      },
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 600,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    },
+    {
+      "id": "d6ec95c4-b5ec-ab97-2f86-9ff0a7a921e8",
+      "name": "5080",
+      "query": "Exact product",
+      "maximumPrice": 1500,
+      "checkedUtc": "2026-09-19T13:49:44.2555997+00:00",
+      "resultCount": 1,
+      "bestResult": {
+        "title": "PNY NVIDIA GeForce RTX™ 5080 OC Triple Fan, Graphics Card 16GB GDDR7, 2.99-Slot",
+        "price": 1469,
+        "shipping": 0,
+        "deliveredPrice": 1469,
+        "condition": "Not stated",
+        "source": "Walmart",
+        "url": "https://www.walmart.com/ip/18171006499",
+        "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Available; Latest attempt: SUCCESS",
+        "lastSeenUtc": "2026-09-19T13:49:44.2555997+00:00"
+      },
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 1500,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    },
+    {
+      "id": "cbb597df-8f1e-e771-3997-85b095d23a37",
+      "name": "5080",
+      "query": "Exact product",
+      "maximumPrice": 1500,
+      "checkedUtc": "2026-09-19T13:49:48.9827486+00:00",
+      "resultCount": 1,
+      "bestResult": {
+        "title": "GIGABYTE Gaming GeForce RTX 5080 Graphics Card GV-N5080GAMING OC-16GD",
+        "price": 1599.99,
+        "condition": "Not stated",
+        "source": "Newegg",
+        "url": "https://www.newegg.com/p/N82E16814932753",
+        "buying": "Seller: Newegg; Fulfilled by: Newegg; Stock: Available; Latest attempt: SUCCESS",
+        "lastSeenUtc": "2026-09-19T13:49:48.9827486+00:00"
+      },
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 1500,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    },
+    {
+      "id": "17e8152b-85b8-3e77-6efd-2f37075ee2a5",
+      "name": "tv",
+      "query": "Exact product",
+      "maximumPrice": 1350,
+      "checkedUtc": "2026-09-19T13:49:55.3118075+00:00",
+      "resultCount": 1,
+      "bestResult": {
+        "title": "LG, OLED 4K UHD Smart TV, Bright Room Ready, 65\" OLED65C6PUA",
+        "price": 1599.99,
+        "shipping": 0,
+        "deliveredPrice": 1599.99,
+        "condition": "Not stated",
+        "source": "Walmart",
+        "url": "https://www.walmart.com/ip/18196407846",
+        "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Available; Latest attempt: SUCCESS",
+        "lastSeenUtc": "2026-09-19T13:49:55.3118075+00:00"
+      },
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 1350,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    }
+  ],
+  "project": "Scout",
+  "receivedUtc": "2026-09-19T13:49:56.179Z"
+}
