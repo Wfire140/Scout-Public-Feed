@@ -3,7 +3,7 @@
   "status": "online",
   "publisher": "Scout",
   "scoutVersion": "1.3.1",
-  "generatedUtc": "2026-09-20T03:04:13.0206731+00:00",
+  "generatedUtc": "2026-09-20T11:02:01.7247473+00:00",
   "searches": [
     {
       "id": "23d2e50a-90f2-4454-950d-688bd8b86c01",
@@ -11,7 +11,7 @@
       "query": "9850x3d",
       "minimumPrice": 350,
       "maximumPrice": 494,
-      "checkedUtc": "2026-09-20T03:00:02.7415556+00:00",
+      "checkedUtc": "2026-09-20T11:00:03.0562673+00:00",
       "resultCount": 0,
       "pricing": {
         "calculatorVersion": 1,
@@ -31,8 +31,8 @@
       "query": "9800x3d",
       "minimumPrice": 200,
       "maximumPrice": 390,
-      "checkedUtc": "2026-09-20T03:00:03.3334965+00:00",
-      "resultCount": 3,
+      "checkedUtc": "2026-09-20T11:00:03.5790124+00:00",
+      "resultCount": 4,
       "bestResult": {
         "title": "AMD Ryzen 7 9800X3D Ryzen 9000 8-Core 4.7GHz AM5 CPU 100-100001084WOF",
         "price": 310,
@@ -42,7 +42,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/800670769485",
         "buying": "Auction (current bid)",
-        "lastSeenUtc": "2026-09-20T03:00:03.3334965+00:00"
+        "lastSeenUtc": "2026-09-20T11:00:03.5790124+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -62,7 +62,7 @@
       "query": "V-COLOR Manta XFinity RGB DDR5 64GB (32GBx2) 6000MHz XMP",
       "minimumPrice": 500,
       "maximumPrice": 1200,
-      "checkedUtc": "2026-09-20T03:00:06.579292+00:00",
+      "checkedUtc": "2026-09-20T11:00:06.9440475+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "V-COLOR Manta XFinity RGB DDR5 64GB (32GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.3",
@@ -73,7 +73,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/307019800682",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-09-20T03:00:06.579292+00:00"
+        "lastSeenUtc": "2026-09-20T11:00:06.9440475+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -93,7 +93,7 @@
       "query": "9950x3d",
       "minimumPrice": 400,
       "maximumPrice": 500,
-      "checkedUtc": "2026-09-20T03:00:07.1122556+00:00",
+      "checkedUtc": "2026-09-20T11:00:07.4790345+00:00",
       "resultCount": 0,
       "pricing": {
         "calculatorVersion": 1,
@@ -113,19 +113,8 @@
       "query": "5080",
       "minimumPrice": 800,
       "maximumPrice": 1450,
-      "checkedUtc": "2026-09-20T03:00:07.5665415+00:00",
-      "resultCount": 2,
-      "bestResult": {
-        "title": "MSI RTX 5080 Inspire 3X OC Black 16GB GDDR7 2655 MHz NVIDIA Graphics Card",
-        "price": 1360,
-        "shipping": 13.99,
-        "deliveredPrice": 1373.99,
-        "condition": "Open box",
-        "source": "eBay",
-        "url": "https://www.ebay.com/itm/198653211056",
-        "buying": "Buy It Now",
-        "lastSeenUtc": "2026-09-20T03:00:07.5665415+00:00"
-      },
+      "checkedUtc": "2026-09-20T11:00:08.0062288+00:00",
+      "resultCount": 0,
       "pricing": {
         "calculatorVersion": 1,
         "target": 1200,
@@ -144,7 +133,7 @@
       "query": "Samsung 49-inch Odyssey G9 240Hz",
       "minimumPrice": 500,
       "maximumPrice": 1000,
-      "checkedUtc": "2026-09-20T03:00:10.2916025+00:00",
+      "checkedUtc": "2026-09-20T11:00:08.3982205+00:00",
       "resultCount": 4,
       "bestResult": {
         "title": "49 Inch Gaming Monitor (Samsung Odyssey G9 5C QHD)",
@@ -155,7 +144,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/365716556953",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-09-20T03:00:10.2916025+00:00"
+        "lastSeenUtc": "2026-09-20T11:00:08.3982205+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -174,7 +163,7 @@
       "name": "5080",
       "query": "Exact product",
       "maximumPrice": 1300,
-      "checkedUtc": "2026-09-20T03:00:13.5095639+00:00",
+      "checkedUtc": "2026-09-20T11:00:11.320959+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "PNY NVIDIA GeForce RTX™ 5080 OC Triple Fan, Graphics Card 16GB GDDR7, 2.99-Slot",
@@ -185,7 +174,7 @@
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/18171006499",
         "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Available; Latest attempt: SUCCESS",
-        "lastSeenUtc": "2026-09-20T03:00:13.5095639+00:00"
+        "lastSeenUtc": "2026-09-20T11:00:11.320959+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -232,7 +221,7 @@
       "name": "Odyssey G9 DQHD",
       "query": "Exact product",
       "maximumPrice": 1100,
-      "checkedUtc": "2026-09-20T03:01:23.7559624+00:00",
+      "checkedUtc": "2026-09-20T11:00:49.890086+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "Samsung, Gaming Monitor, 49\" Odyssey G9 DQHD, 240Hz, 1ms(GtG)",
@@ -243,7 +232,7 @@
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/5164703850",
         "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: SUCCESS",
-        "lastSeenUtc": "2026-09-20T03:01:23.7559624+00:00"
+        "lastSeenUtc": "2026-09-20T11:00:49.890086+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -259,5 +248,5 @@
     }
   ],
   "project": "Scout",
-  "receivedUtc": "2026-09-20T03:04:13.713Z"
+  "receivedUtc": "2026-09-20T11:02:02.594Z"
 }
