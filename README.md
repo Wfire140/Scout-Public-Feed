@@ -14,7 +14,7 @@ Chat weekly audit
 
 This repository contains public sanitized Scout data only. GitHub does not control Scout, does not publish back to Cloudflare, and contains no credentials. The source is the read-only public endpoint `https://project-hub-view.pages.dev/api/scout/current`.
 
-The action checks every two hours at minute 17 UTC and can also run manually. It uses the repository-provided `GITHUB_TOKEN` with only `contents: write` permission. It validates HTTP status, JSON, the reviewed schema-v1 field set, values, result URL hosts, and sensitive data patterns before atomically replacing `scout-current.json`. Failures preserve the last good file and fail the run. A changed valid file is committed; an identical file makes no commit. New fields or source hosts require review and a validator change.
+The action checks every two hours at minute 17 UTC and can also run manually. It uses the repository-provided `GITHUB_TOKEN` with only `contents: write` permission. It validates HTTP status, JSON, the reviewed schema-v1 field set, values, result URL hosts, and sensitive data patterns before atomically replacing `scout-current.json`. Reviewed result hosts are the exact retailer hosts for eBay, Walmart, Newegg, and Best Buy. Best Buy is additionally restricted to its reviewed product-page path shapes and, on legacy URLs, an optional numeric `skuId` that must match the path SKU; arbitrary query parameters remain rejected for every retailer. Failures preserve the last good file and fail the run. A changed valid file is committed; an identical file makes no commit. New fields, source hosts, or URL shapes require review and a validator change.
 
 Run offline tests with `python -m unittest discover -s tests -v`. Run a local fetch with `python mirror.py`.
 
