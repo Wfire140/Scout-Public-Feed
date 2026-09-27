@@ -3,7 +3,7 @@
   "status": "online",
   "publisher": "Scout",
   "scoutVersion": "1.3.1",
-  "generatedUtc": "2026-09-20T11:02:01.7247473+00:00",
+  "generatedUtc": "2026-09-27T11:00:51.036353+00:00",
   "searches": [
     {
       "id": "23d2e50a-90f2-4454-950d-688bd8b86c01",
@@ -11,8 +11,19 @@
       "query": "9850x3d",
       "minimumPrice": 350,
       "maximumPrice": 494,
-      "checkedUtc": "2026-09-20T11:00:03.0562673+00:00",
-      "resultCount": 0,
+      "checkedUtc": "2026-09-27T11:00:03.0874078+00:00",
+      "resultCount": 1,
+      "bestResult": {
+        "title": "*DELIDED* AMD Ryzen 7 9850X3D - Ryzen 7 9000 Series Granite Ridge 8-Core 4.7 GHz",
+        "price": 450,
+        "shipping": 6.07,
+        "deliveredPrice": 456.07,
+        "condition": "Open box",
+        "source": "eBay",
+        "url": "https://www.ebay.com/itm/307200923444",
+        "buying": "Buy It Now",
+        "lastSeenUtc": "2026-09-27T11:00:03.0874078+00:00"
+      },
       "pricing": {
         "calculatorVersion": 1,
         "target": 494,
@@ -31,53 +42,22 @@
       "query": "9800x3d",
       "minimumPrice": 200,
       "maximumPrice": 390,
-      "checkedUtc": "2026-09-20T11:00:03.5790124+00:00",
-      "resultCount": 4,
+      "checkedUtc": "2026-09-27T11:00:03.5507763+00:00",
+      "resultCount": 3,
       "bestResult": {
-        "title": "AMD Ryzen 7 9800X3D Ryzen 9000 8-Core 4.7GHz AM5 CPU 100-100001084WOF",
-        "price": 310,
-        "shipping": 6.17,
-        "deliveredPrice": 316.17,
+        "title": "Open Box AMD 9800x3d Ryzen 7",
+        "price": 360,
+        "shipping": 7.99,
+        "deliveredPrice": 367.99,
         "condition": "Open box",
         "source": "eBay",
-        "url": "https://www.ebay.com/itm/800670769485",
-        "buying": "Auction (current bid)",
-        "lastSeenUtc": "2026-09-20T11:00:03.5790124+00:00"
-      },
-      "pricing": {
-        "calculatorVersion": 1,
-        "target": 390,
-        "freshReferenceSources": 0,
-        "currentConfidence": "None",
-        "coverage30": "Insufficient",
-        "validDays30": 0,
-        "coverage90": "Insufficient",
-        "validDays90": 0,
-        "trend": "InsufficientData"
-      }
-    },
-    {
-      "id": "5fb2c2b7-b711-4db7-b1f9-5e2693b14588",
-      "name": "V-COLOR Manta XFinity RGB DDR5 64GB (32GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.35V RGB Gaming Deskto",
-      "query": "V-COLOR Manta XFinity RGB DDR5 64GB (32GBx2) 6000MHz XMP",
-      "minimumPrice": 500,
-      "maximumPrice": 1200,
-      "checkedUtc": "2026-09-20T11:00:06.9440475+00:00",
-      "resultCount": 1,
-      "bestResult": {
-        "title": "V-COLOR Manta XFinity RGB DDR5 64GB (32GBx2) 6000MHz XMP 3.0 & AMD EXPO CL30 1.3",
-        "price": 1019.99,
-        "shipping": 0,
-        "deliveredPrice": 1019.99,
-        "condition": "New",
-        "source": "eBay",
-        "url": "https://www.ebay.com/itm/307019800682",
+        "url": "https://www.ebay.com/itm/168725624415",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-09-20T11:00:06.9440475+00:00"
+        "lastSeenUtc": "2026-09-27T11:00:03.5507763+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
-        "target": 1200,
+        "target": 290,
         "freshReferenceSources": 0,
         "currentConfidence": "None",
         "coverage30": "Insufficient",
@@ -93,7 +73,7 @@
       "query": "9950x3d",
       "minimumPrice": 400,
       "maximumPrice": 500,
-      "checkedUtc": "2026-09-20T11:00:07.4790345+00:00",
+      "checkedUtc": "2026-09-27T11:00:04.0448054+00:00",
       "resultCount": 0,
       "pricing": {
         "calculatorVersion": 1,
@@ -113,8 +93,19 @@
       "query": "5080",
       "minimumPrice": 800,
       "maximumPrice": 1450,
-      "checkedUtc": "2026-09-20T11:00:08.0062288+00:00",
-      "resultCount": 0,
+      "checkedUtc": "2026-09-27T11:00:04.6089829+00:00",
+      "resultCount": 3,
+      "bestResult": {
+        "title": "GIGABYTE NVIDIA GeForce RTX 5080 Gaming OC 16GB GDDR7 GPU Used in original box",
+        "price": 1377,
+        "shipping": 16.51,
+        "deliveredPrice": 1393.51,
+        "condition": "New",
+        "source": "eBay",
+        "url": "https://www.ebay.com/itm/366694403736",
+        "buying": "Buy It Now",
+        "lastSeenUtc": "2026-09-27T11:00:04.6089829+00:00"
+      },
       "pricing": {
         "calculatorVersion": 1,
         "target": 1200,
@@ -133,7 +124,7 @@
       "query": "Samsung 49-inch Odyssey G9 240Hz",
       "minimumPrice": 500,
       "maximumPrice": 1000,
-      "checkedUtc": "2026-09-20T11:00:08.3982205+00:00",
+      "checkedUtc": "2026-09-27T11:00:08.0586657+00:00",
       "resultCount": 4,
       "bestResult": {
         "title": "49 Inch Gaming Monitor (Samsung Odyssey G9 5C QHD)",
@@ -144,7 +135,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/365716556953",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-09-20T11:00:08.3982205+00:00"
+        "lastSeenUtc": "2026-09-27T11:00:08.0586657+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -159,26 +150,15 @@
       }
     },
     {
-      "id": "d6ec95c4-b5ec-ab97-2f86-9ff0a7a921e8",
-      "name": "5080",
-      "query": "Exact product",
-      "maximumPrice": 1300,
-      "checkedUtc": "2026-09-20T11:00:11.320959+00:00",
-      "resultCount": 1,
-      "bestResult": {
-        "title": "PNY NVIDIA GeForce RTX™ 5080 OC Triple Fan, Graphics Card 16GB GDDR7, 2.99-Slot",
-        "price": 1469,
-        "shipping": 0,
-        "deliveredPrice": 1469,
-        "condition": "Not stated",
-        "source": "Walmart",
-        "url": "https://www.walmart.com/ip/18171006499",
-        "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Available; Latest attempt: SUCCESS",
-        "lastSeenUtc": "2026-09-20T11:00:11.320959+00:00"
-      },
+      "id": "fb96ec67-b87f-494d-8186-1084c7437956",
+      "name": "Epson V500",
+      "query": "Epson V500",
+      "maximumPrice": 65,
+      "checkedUtc": "2026-09-27T11:00:08.5602101+00:00",
+      "resultCount": 0,
       "pricing": {
         "calculatorVersion": 1,
-        "target": 1300,
+        "target": 65,
         "freshReferenceSources": 0,
         "currentConfidence": "None",
         "coverage30": "Insufficient",
@@ -189,20 +169,99 @@
       }
     },
     {
-      "id": "cbb597df-8f1e-e771-3997-85b095d23a37",
+      "id": "dbd7b826-3ff0-49d8-862c-5883ecd2e5e8",
+      "name": "Cannon 9000F",
+      "query": "Cannon 9000F Mark II",
+      "maximumPrice": 65,
+      "checkedUtc": "2026-09-27T11:00:08.9397732+00:00",
+      "resultCount": 0,
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 65,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    },
+    {
+      "id": "a5456191-126d-438f-8e2b-b5e09926830f",
+      "name": "Epson V600",
+      "query": "Epson V600",
+      "maximumPrice": 70,
+      "checkedUtc": "2026-09-27T11:00:09.4298141+00:00",
+      "resultCount": 1,
+      "bestResult": {
+        "title": "SCREEN PROTECTOR  for Epson Perfection V600 Photo Scanner",
+        "price": 25,
+        "shipping": 5,
+        "deliveredPrice": 30,
+        "condition": "New",
+        "source": "eBay",
+        "url": "https://www.ebay.com/itm/147049890628",
+        "buying": "Buy It Now",
+        "lastSeenUtc": "2026-09-27T11:00:09.4298141+00:00"
+      },
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 70,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    },
+    {
+      "id": "1a0db371-8fc8-4fe8-9bf9-64cfaf493fb0",
+      "name": "Epson Expression 10000XL",
+      "query": "Epson Expression 10000XL",
+      "maximumPrice": 280,
+      "checkedUtc": "2026-09-27T11:00:09.8283967+00:00",
+      "resultCount": 8,
+      "bestResult": {
+        "title": "USB Cord for Epson Perfection 4490 V750-M 1650 Expression 10000XL Scanner",
+        "price": 11.99,
+        "shipping": 0,
+        "deliveredPrice": 11.99,
+        "condition": "New",
+        "source": "eBay",
+        "url": "https://www.ebay.com/itm/395355737713",
+        "buying": "Buy It Now",
+        "lastSeenUtc": "2026-09-27T11:00:09.8283967+00:00"
+      },
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 280,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    },
+    {
+      "id": "d6ec95c4-b5ec-ab97-2f86-9ff0a7a921e8",
       "name": "5080",
       "query": "Exact product",
       "maximumPrice": 1300,
-      "checkedUtc": "2026-09-19T13:49:48.9827486+00:00",
+      "checkedUtc": "2026-09-27T11:00:12.4648759+00:00",
       "resultCount": 1,
       "bestResult": {
-        "title": "GIGABYTE Gaming GeForce RTX 5080 Graphics Card GV-N5080GAMING OC-16GD",
-        "price": 1599.99,
+        "title": "PNY NVIDIA GeForce RTX™ 5080 OC Triple Fan, Graphics Card 16GB GDDR7, 2.99-Slot",
+        "price": 1469,
         "condition": "Not stated",
-        "source": "Newegg",
-        "url": "https://www.newegg.com/p/N82E16814932753",
-        "buying": "Seller: Newegg; Fulfilled by: Newegg; Stock: Available; Latest attempt: EXTRACTION_ERROR",
-        "lastSeenUtc": "2026-09-19T13:49:48.9827486+00:00"
+        "source": "Walmart",
+        "url": "https://www.walmart.com/ip/18171006499",
+        "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: SUCCESS",
+        "lastSeenUtc": "2026-09-27T11:00:12.4648759+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -221,7 +280,7 @@
       "name": "Odyssey G9 DQHD",
       "query": "Exact product",
       "maximumPrice": 1100,
-      "checkedUtc": "2026-09-20T11:00:49.890086+00:00",
+      "checkedUtc": "2026-09-27T11:00:17.2885436+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "Samsung, Gaming Monitor, 49\" Odyssey G9 DQHD, 240Hz, 1ms(GtG)",
@@ -232,7 +291,7 @@
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/5164703850",
         "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: SUCCESS",
-        "lastSeenUtc": "2026-09-20T11:00:49.890086+00:00"
+        "lastSeenUtc": "2026-09-27T11:00:17.2885436+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -245,8 +304,36 @@
         "validDays90": 0,
         "trend": "InsufficientData"
       }
+    },
+    {
+      "id": "c851c92b-4a68-23c4-f870-9e0bd5cb7d22",
+      "name": "5080",
+      "query": "Exact product",
+      "maximumPrice": 1300,
+      "checkedUtc": "2026-09-27T11:00:50.9987784+00:00",
+      "resultCount": 1,
+      "bestResult": {
+        "title": "ASUS PRIME NVIDIA GeForce RTX 5080 16GB GDDR7 PCI Express 5.0 Graphics Card Black",
+        "price": 1599.99,
+        "condition": "New",
+        "source": "BestBuy",
+        "url": "https://www.bestbuy.com/product/asus-prime-nvidia-geforce-rtx-5080-16gb-gddr7-pci-express-5-0-graphics-card-black/JJGGLH7RSP",
+        "buying": "Seller: Best Buy; Fulfilled by: Best Buy; Stock: Out of stock; Latest attempt: SUCCESS",
+        "lastSeenUtc": "2026-09-27T11:00:50.9987784+00:00"
+      },
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 1300,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
     }
   ],
   "project": "Scout",
-  "receivedUtc": "2026-09-20T11:02:02.594Z"
+  "receivedUtc": "2026-09-27T11:00:52.147Z"
 }
