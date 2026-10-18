@@ -3,7 +3,7 @@
   "status": "online",
   "publisher": "Scout",
   "scoutVersion": "1.5.0",
-  "generatedUtc": "2026-10-17T11:00:33.2989248+00:00",
+  "generatedUtc": "2026-10-18T03:00:37.5005291+00:00",
   "searches": [
     {
       "id": "23d2e50a-90f2-4454-950d-688bd8b86c01",
@@ -11,18 +11,18 @@
       "query": "9850x3d",
       "minimumPrice": 350,
       "maximumPrice": 494,
-      "checkedUtc": "2026-10-17T11:00:02.6834281+00:00",
-      "resultCount": 6,
+      "checkedUtc": "2026-10-18T03:00:04.8271592+00:00",
+      "resultCount": 5,
       "bestResult": {
-        "title": "AMD RYZEN 7 9850X3D w/ Radeon Graphics (100-100001973W0F) SHELF WEAR (SEALED) (N",
-        "price": 425,
-        "shipping": 20,
-        "deliveredPrice": 445,
+        "title": "AMD Ryzen 7 9850X 3D (Brand New)",
+        "price": 450,
+        "shipping": 5.68,
+        "deliveredPrice": 455.68,
         "condition": "New",
         "source": "eBay",
-        "url": "https://www.ebay.com/itm/366729718864",
-        "buying": "Auction (current bid)",
-        "lastSeenUtc": "2026-10-17T11:00:02.6834281+00:00"
+        "url": "https://www.ebay.com/itm/920010525816",
+        "buying": "Buy It Now",
+        "lastSeenUtc": "2026-10-18T03:00:04.8271592+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -42,7 +42,7 @@
       "query": "9800x3d",
       "minimumPrice": 200,
       "maximumPrice": 390,
-      "checkedUtc": "2026-10-17T11:00:03.4464973+00:00",
+      "checkedUtc": "2026-10-18T03:00:05.7610493+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "AMD Ryzen 7 9800X3D Desktop Processor 8-Core, 16-Thread, New No Box Unused",
@@ -53,7 +53,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/336824781916",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-10-17T11:00:03.4464973+00:00"
+        "lastSeenUtc": "2026-10-18T03:00:05.7610493+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -73,8 +73,19 @@
       "query": "9950x3d",
       "minimumPrice": 400,
       "maximumPrice": 500,
-      "checkedUtc": "2026-10-17T11:00:04.2166052+00:00",
-      "resultCount": 0,
+      "checkedUtc": "2026-10-18T03:00:06.7291531+00:00",
+      "resultCount": 1,
+      "bestResult": {
+        "title": "AMD Ryzen 9 9950X3D 4.3 GHz 16-Core Cooler master 240 AIO Combo Niew Sealed",
+        "price": 400,
+        "shipping": 15.35,
+        "deliveredPrice": 415.35,
+        "condition": "New",
+        "source": "eBay",
+        "url": "https://www.ebay.com/itm/307236851930",
+        "buying": "Auction (current bid)",
+        "lastSeenUtc": "2026-10-18T03:00:06.7291531+00:00"
+      },
       "pricing": {
         "calculatorVersion": 1,
         "target": 600,
@@ -93,7 +104,7 @@
       "query": "5080",
       "minimumPrice": 800,
       "maximumPrice": 1450,
-      "checkedUtc": "2026-10-17T11:00:05.125201+00:00",
+      "checkedUtc": "2026-10-18T03:00:10.6357574+00:00",
       "resultCount": 0,
       "pricing": {
         "calculatorVersion": 1,
@@ -113,7 +124,7 @@
       "query": "Samsung 49-inch Odyssey G9 240Hz",
       "minimumPrice": 500,
       "maximumPrice": 1000,
-      "checkedUtc": "2026-10-17T11:00:05.6387547+00:00",
+      "checkedUtc": "2026-10-18T03:00:11.2829863+00:00",
       "resultCount": 3,
       "bestResult": {
         "title": "49 Inch Gaming Monitor (Samsung Odyssey G9 5C QHD)",
@@ -124,7 +135,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/365716556953",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-10-17T11:00:05.6387547+00:00"
+        "lastSeenUtc": "2026-10-18T03:00:11.2829863+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -143,7 +154,7 @@
       "name": "Epson V500",
       "query": "Epson V500",
       "maximumPrice": 65,
-      "checkedUtc": "2026-10-17T11:00:06.3285161+00:00",
+      "checkedUtc": "2026-10-18T03:00:12.4103687+00:00",
       "resultCount": 0,
       "pricing": {
         "calculatorVersion": 1,
@@ -181,7 +192,7 @@
       "name": "Epson V600",
       "query": "Epson V600",
       "maximumPrice": 70,
-      "checkedUtc": "2026-10-17T11:00:06.8997322+00:00",
+      "checkedUtc": "2026-10-18T03:00:13.2213773+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "SCREEN PROTECTOR  for Epson Perfection V600 Photo Scanner",
@@ -192,7 +203,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/147049890628",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-10-17T11:00:06.8997322+00:00"
+        "lastSeenUtc": "2026-10-18T03:00:13.2213773+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -211,7 +222,7 @@
       "name": "Epson Expression 10000XL",
       "query": "Epson Expression 10000XL",
       "maximumPrice": 280,
-      "checkedUtc": "2026-10-17T11:00:07.4616034+00:00",
+      "checkedUtc": "2026-10-18T03:00:13.9994577+00:00",
       "resultCount": 8,
       "bestResult": {
         "title": "USB Cord for Epson Perfection 4490 V750-M 1650 Expression 10000XL Scanner",
@@ -222,7 +233,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/395355737713",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-10-17T11:00:07.4616034+00:00"
+        "lastSeenUtc": "2026-10-18T03:00:13.9994577+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -400,6 +411,99 @@
       }
     },
     {
+      "id": "e0d9a328-5d45-4aba-ac01-2c182d3c43a6",
+      "name": "AMD ryzen 9 5950x",
+      "query": "AMD ryzen 9 5950x",
+      "minimumPrice": 150,
+      "maximumPrice": 300,
+      "checkedUtc": "2026-10-18T02:28:48.7946256+00:00",
+      "resultCount": 47,
+      "bestResult": {
+        "title": "NEW AMD Ryzen Threadripper PRO 3955WX 16-Core 32-Thread CPU 100-100000167WOF",
+        "price": 150,
+        "shipping": 0,
+        "deliveredPrice": 150,
+        "condition": "New",
+        "source": "eBay",
+        "url": "https://www.ebay.com/itm/227564723477",
+        "buying": "Buy It Now",
+        "lastSeenUtc": "2026-10-18T02:28:48.7946256+00:00"
+      },
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 300,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    },
+    {
+      "id": "56006d18-8873-46c9-90e0-523492262bb1",
+      "name": "ryzen 9 5950x",
+      "query": "ryzen 9 5950x",
+      "minimumPrice": 100,
+      "maximumPrice": 550,
+      "checkedUtc": "2026-10-18T02:31:23.0828415+00:00",
+      "resultCount": 1,
+      "bestResult": {
+        "title": "GIGABYTE B550 AORUS ELITE V2+ Ryzen 9 5950x AMD+16GB RAM Motherboard & CPU Combo",
+        "price": 510,
+        "shipping": 17.75,
+        "deliveredPrice": 527.75,
+        "condition": "Used",
+        "source": "eBay",
+        "url": "https://www.ebay.com/itm/128050835382",
+        "buying": "Buy It Now",
+        "lastSeenUtc": "2026-10-18T02:31:23.0828415+00:00"
+      },
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 550,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    },
+    {
+      "id": "acadf30c-b1c6-4fe1-bc22-17daf9ce43c4",
+      "name": "ryzen 9 5900X",
+      "query": "ryzen 9 5900X",
+      "minimumPrice": 75,
+      "maximumPrice": 300,
+      "checkedUtc": "2026-10-18T02:31:42.9815191+00:00",
+      "resultCount": 101,
+      "bestResult": {
+        "title": "Lenovo Lock AMD Threadripper Pro 3945wx 4.0GHz 12 core *USED*",
+        "price": 75,
+        "shipping": 0,
+        "deliveredPrice": 75,
+        "condition": "Used",
+        "source": "eBay",
+        "url": "https://www.ebay.com/itm/257798720085",
+        "buying": "Buy It Now",
+        "lastSeenUtc": "2026-10-18T02:31:42.9815191+00:00"
+      },
+      "pricing": {
+        "calculatorVersion": 1,
+        "target": 300,
+        "freshReferenceSources": 0,
+        "currentConfidence": "None",
+        "coverage30": "Insufficient",
+        "validDays30": 0,
+        "coverage90": "Insufficient",
+        "validDays90": 0,
+        "trend": "InsufficientData"
+      }
+    },
+    {
       "id": "d6ec95c4-b5ec-ab97-2f86-9ff0a7a921e8",
       "name": "5080",
       "query": "Exact product",
@@ -434,7 +538,7 @@
       "name": "Odyssey G9 DQHD",
       "query": "Exact product",
       "maximumPrice": 1100,
-      "checkedUtc": "2026-10-17T11:00:17.2451428+00:00",
+      "checkedUtc": "2026-10-18T03:00:22.9527892+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "Samsung, Gaming Monitor, 49\" Odyssey G9 DQHD, 240Hz, 1ms(GtG)",
@@ -445,7 +549,7 @@
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/5164703850",
         "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: SUCCESS",
-        "lastSeenUtc": "2026-10-17T11:00:17.2451428+00:00"
+        "lastSeenUtc": "2026-10-18T03:00:22.9527892+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -489,5 +593,5 @@
     }
   ],
   "project": "Scout",
-  "receivedUtc": "2026-10-17T11:00:33.952Z"
+  "receivedUtc": "2026-10-18T03:00:38.761Z"
 }
