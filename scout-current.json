@@ -3,7 +3,7 @@
   "status": "online",
   "publisher": "Scout",
   "scoutVersion": "1.5.0",
-  "generatedUtc": "2026-10-19T11:00:30.7124327+00:00",
+  "generatedUtc": "2026-10-20T03:01:17.400581+00:00",
   "searches": [
     {
       "id": "23d2e50a-90f2-4454-950d-688bd8b86c01",
@@ -11,18 +11,18 @@
       "query": "9850x3d",
       "minimumPrice": 350,
       "maximumPrice": 494,
-      "checkedUtc": "2026-10-19T11:00:03.5717957+00:00",
-      "resultCount": 4,
+      "checkedUtc": "2026-10-20T03:00:03.761331+00:00",
+      "resultCount": 6,
       "bestResult": {
-        "title": "AMD Ryzen 7 9850X3D 8-Core 4.7GHz AM5 CPU 96MB L3 2200MHz",
-        "price": 439.99,
-        "shipping": 5.88,
-        "deliveredPrice": 445.87,
+        "title": "AMD RYZEN 7 9850X3D w/ Radeon Graphics (100-100001973W0F) SHELF WEAR (SEALED) (N",
+        "price": 415,
+        "shipping": 20,
+        "deliveredPrice": 435,
         "condition": "New",
         "source": "eBay",
-        "url": "https://www.ebay.com/itm/237131308578",
-        "buying": "Buy It Now",
-        "lastSeenUtc": "2026-10-19T11:00:03.5717957+00:00"
+        "url": "https://www.ebay.com/itm/366745252777",
+        "buying": "Auction (current bid)",
+        "lastSeenUtc": "2026-10-20T03:00:03.761331+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -42,18 +42,18 @@
       "query": "9800x3d",
       "minimumPrice": 200,
       "maximumPrice": 390,
-      "checkedUtc": "2026-10-19T11:00:04.3991658+00:00",
+      "checkedUtc": "2026-10-20T03:00:07.3788026+00:00",
       "resultCount": 2,
       "bestResult": {
-        "title": "AMD Ryzen 7 9800X3D 8-Core Socket AM5 CPU 4.7GHz 96MB L3 2600MHz",
-        "price": 350,
-        "shipping": 6.12,
-        "deliveredPrice": 356.12,
+        "title": "AMD Ryzen 7 9800X3D 8-Core 16-Thread Desktop Processor Socket AM5 Tray NEW",
+        "price": 380,
+        "shipping": 8,
+        "deliveredPrice": 388,
         "condition": "New",
         "source": "eBay",
-        "url": "https://www.ebay.com/itm/900020951814",
+        "url": "https://www.ebay.com/itm/880028950544",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-10-19T11:00:04.3991658+00:00"
+        "lastSeenUtc": "2026-10-20T03:00:07.3788026+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -73,19 +73,8 @@
       "query": "9950x3d",
       "minimumPrice": 400,
       "maximumPrice": 500,
-      "checkedUtc": "2026-10-19T11:00:07.8292024+00:00",
-      "resultCount": 1,
-      "bestResult": {
-        "title": "AMD Ryzen 9 9950X3D 4.3 GHz 16-Core Cooler master 240 AIO Combo Niew Sealed",
-        "price": 470,
-        "shipping": 15.35,
-        "deliveredPrice": 485.35,
-        "condition": "New",
-        "source": "eBay",
-        "url": "https://www.ebay.com/itm/307236851930",
-        "buying": "Auction (current bid)",
-        "lastSeenUtc": "2026-10-19T11:00:07.8292024+00:00"
-      },
+      "checkedUtc": "2026-10-20T03:00:10.418878+00:00",
+      "resultCount": 0,
       "pricing": {
         "calculatorVersion": 1,
         "target": 600,
@@ -104,18 +93,18 @@
       "query": "5080",
       "minimumPrice": 800,
       "maximumPrice": 1450,
-      "checkedUtc": "2026-10-19T11:00:08.5283145+00:00",
-      "resultCount": 1,
+      "checkedUtc": "2026-10-20T03:00:10.9823379+00:00",
+      "resultCount": 2,
       "bestResult": {
-        "title": "PNY GeForce RTM 5080 ARGB EPIC-X RGB Overclocked Triple Fan GPU, New, Sealed",
-        "price": 1400,
-        "shipping": 46.95,
-        "deliveredPrice": 1446.95,
-        "condition": "New",
+        "title": "ASUS Prime GeForce RTX 5080 16GB GDDR7 GPU Graphics Card PLEAE READ DESCRIPTION",
+        "price": 1000,
+        "shipping": 19.86,
+        "deliveredPrice": 1019.86,
+        "condition": "Open box",
         "source": "eBay",
-        "url": "https://www.ebay.com/itm/206636262926",
+        "url": "https://www.ebay.com/itm/237132722176",
         "buying": "Auction (current bid)",
-        "lastSeenUtc": "2026-10-19T11:00:08.5283145+00:00"
+        "lastSeenUtc": "2026-10-20T03:00:10.9823379+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -135,7 +124,7 @@
       "query": "Samsung 49-inch Odyssey G9 240Hz",
       "minimumPrice": 500,
       "maximumPrice": 1000,
-      "checkedUtc": "2026-10-19T11:00:08.9864492+00:00",
+      "checkedUtc": "2026-10-20T03:00:13.9808687+00:00",
       "resultCount": 3,
       "bestResult": {
         "title": "49 Inch Gaming Monitor (Samsung Odyssey G9 5C QHD)",
@@ -146,7 +135,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/365716556953",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-10-19T11:00:08.9864492+00:00"
+        "lastSeenUtc": "2026-10-20T03:00:13.9808687+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -165,7 +154,7 @@
       "name": "Epson V500",
       "query": "Epson V500",
       "maximumPrice": 65,
-      "checkedUtc": "2026-10-19T11:00:09.6804039+00:00",
+      "checkedUtc": "2026-10-20T03:00:14.5129158+00:00",
       "resultCount": 0,
       "pricing": {
         "calculatorVersion": 1,
@@ -203,7 +192,7 @@
       "name": "Epson V600",
       "query": "Epson V600",
       "maximumPrice": 70,
-      "checkedUtc": "2026-10-19T11:00:10.1077024+00:00",
+      "checkedUtc": "2026-10-20T03:00:14.9806255+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "SCREEN PROTECTOR  for Epson Perfection V600 Photo Scanner",
@@ -214,7 +203,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/147049890628",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-10-19T11:00:10.1077024+00:00"
+        "lastSeenUtc": "2026-10-20T03:00:14.9806255+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -233,7 +222,7 @@
       "name": "Epson Expression 10000XL",
       "query": "Epson Expression 10000XL",
       "maximumPrice": 280,
-      "checkedUtc": "2026-10-19T11:00:10.5231557+00:00",
+      "checkedUtc": "2026-10-20T03:00:15.4507139+00:00",
       "resultCount": 8,
       "bestResult": {
         "title": "USB Cord for Epson Perfection 4490 V750-M 1650 Expression 10000XL Scanner",
@@ -244,7 +233,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/395355737713",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-10-19T11:00:10.5231557+00:00"
+        "lastSeenUtc": "2026-10-20T03:00:15.4507139+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -549,7 +538,7 @@
       "name": "Odyssey G9 DQHD",
       "query": "Exact product",
       "maximumPrice": 1100,
-      "checkedUtc": "2026-10-19T11:00:18.8612558+00:00",
+      "checkedUtc": "2026-10-20T03:00:34.7595177+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "Samsung, Gaming Monitor, 49\" Odyssey G9 DQHD, 240Hz, 1ms(GtG)",
@@ -560,7 +549,7 @@
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/5164703850",
         "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: SUCCESS",
-        "lastSeenUtc": "2026-10-19T11:00:18.8612558+00:00"
+        "lastSeenUtc": "2026-10-20T03:00:34.7595177+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -604,5 +593,5 @@
     }
   ],
   "project": "Scout",
-  "receivedUtc": "2026-10-19T11:00:31.613Z"
+  "receivedUtc": "2026-10-20T03:01:18.157Z"
 }
