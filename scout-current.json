@@ -3,7 +3,7 @@
   "status": "online",
   "publisher": "Scout",
   "scoutVersion": "1.5.0",
-  "generatedUtc": "2026-10-24T11:01:26.4479866+00:00",
+  "generatedUtc": "2026-10-25T03:00:32.9855303+00:00",
   "searches": [
     {
       "id": "23d2e50a-90f2-4454-950d-688bd8b86c01",
@@ -42,22 +42,22 @@
       "query": "9800x3d",
       "minimumPrice": 200,
       "maximumPrice": 390,
-      "checkedUtc": "2026-10-24T11:00:04.3582275+00:00",
-      "resultCount": 1,
+      "checkedUtc": "2026-10-25T03:00:03.8923606+00:00",
+      "resultCount": 3,
       "bestResult": {
-        "title": "AMD  9800X3D Ryzen 7 9000 Series Processor 4.7GHz 8-Core AM5",
-        "price": 356,
-        "shipping": 11.5,
-        "deliveredPrice": 367.5,
+        "title": "AMD Ryzen 7 9800X3D 8-Core Socket AM5 4.7GHz CPU 8MB L2 96MB L3",
+        "price": 360,
+        "shipping": 6.12,
+        "deliveredPrice": 366.12,
         "condition": "New",
         "source": "eBay",
-        "url": "https://www.ebay.com/itm/237133984409",
-        "buying": "Auction (current bid)",
-        "lastSeenUtc": "2026-10-24T11:00:04.3582275+00:00"
+        "url": "https://www.ebay.com/itm/227582294296",
+        "buying": "Buy It Now",
+        "lastSeenUtc": "2026-10-25T03:00:03.8923606+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
-        "target": 290,
+        "target": 399,
         "freshReferenceSources": 0,
         "currentConfidence": "None",
         "coverage30": "Insufficient",
@@ -77,7 +77,7 @@
       "resultCount": 0,
       "pricing": {
         "calculatorVersion": 1,
-        "target": 600,
+        "target": 500,
         "freshReferenceSources": 0,
         "currentConfidence": "None",
         "coverage30": "Insufficient",
@@ -93,8 +93,8 @@
       "query": "5080",
       "minimumPrice": 800,
       "maximumPrice": 1450,
-      "checkedUtc": "2026-10-24T11:00:05.6705894+00:00",
-      "resultCount": 2,
+      "checkedUtc": "2026-10-25T03:00:07.5076698+00:00",
+      "resultCount": 1,
       "bestResult": {
         "title": "ASUS Prime GeForce RTX 5080 16GB GDDR7 GPU Graphics Card PLEAE READ DESCRIPTION",
         "price": 1300,
@@ -104,7 +104,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/237132722176",
         "buying": "Auction (current bid)",
-        "lastSeenUtc": "2026-10-24T11:00:05.6705894+00:00"
+        "lastSeenUtc": "2026-10-25T03:00:07.5076698+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -124,7 +124,7 @@
       "query": "Samsung 49-inch Odyssey G9 240Hz",
       "minimumPrice": 500,
       "maximumPrice": 1000,
-      "checkedUtc": "2026-10-24T11:00:06.143061+00:00",
+      "checkedUtc": "2026-10-25T03:00:07.9789517+00:00",
       "resultCount": 3,
       "bestResult": {
         "title": "49 Inch Gaming Monitor (Samsung Odyssey G9 5C QHD)",
@@ -135,7 +135,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/365716556953",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-10-24T11:00:06.143061+00:00"
+        "lastSeenUtc": "2026-10-25T03:00:07.9789517+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -508,18 +508,16 @@
       "name": "5080",
       "query": "Exact product",
       "maximumPrice": 1300,
-      "checkedUtc": "2026-10-12T03:00:10.9984628+00:00",
+      "checkedUtc": "2026-10-25T03:00:12.3442084+00:00",
       "resultCount": 1,
       "bestResult": {
-        "title": "PNY NVIDIA GeForce RTX™ 5080 OC Triple Fan, Graphics Card 16GB GDDR7, 2.99-Slot",
+        "title": "PNY, NVIDIA GeForce RTX 5080 OC Triple Fan Graphics Card, 16GB",
         "price": 1529,
-        "shipping": 0,
-        "deliveredPrice": 1529,
         "condition": "Not stated",
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/18171006499",
-        "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Available; Latest attempt: EXTRACTION_ERROR",
-        "lastSeenUtc": "2026-10-12T03:00:10.9984628+00:00"
+        "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Available; Latest attempt: SUCCESS",
+        "lastSeenUtc": "2026-10-25T03:00:12.3442084+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -538,7 +536,7 @@
       "name": "Odyssey G9 DQHD",
       "query": "Exact product",
       "maximumPrice": 1100,
-      "checkedUtc": "2026-10-24T03:00:22.0993864+00:00",
+      "checkedUtc": "2026-10-25T03:00:17.0558215+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "Samsung, Gaming Monitor, 49\" Odyssey G9 DQHD, 240Hz, 1ms(GtG)",
@@ -548,8 +546,8 @@
         "condition": "Not stated",
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/5164703850",
-        "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: ACCESS_DENIED",
-        "lastSeenUtc": "2026-10-24T03:00:22.0993864+00:00"
+        "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: SUCCESS",
+        "lastSeenUtc": "2026-10-25T03:00:17.0558215+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -593,5 +591,5 @@
     }
   ],
   "project": "Scout",
-  "receivedUtc": "2026-10-24T11:01:28.204Z"
+  "receivedUtc": "2026-10-25T03:00:33.459Z"
 }
