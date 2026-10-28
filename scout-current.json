@@ -3,7 +3,7 @@
   "status": "online",
   "publisher": "Scout",
   "scoutVersion": "1.5.0",
-  "generatedUtc": "2026-10-27T11:00:34.4911655+00:00",
+  "generatedUtc": "2026-10-28T03:01:29.359434+00:00",
   "searches": [
     {
       "id": "db783e7f-cafb-4a33-b7f0-acb28c0597bd",
@@ -11,18 +11,18 @@
       "query": "9800x3d",
       "minimumPrice": 200,
       "maximumPrice": 390,
-      "checkedUtc": "2026-10-27T11:00:02.6565913+00:00",
+      "checkedUtc": "2026-10-28T03:00:03.6033538+00:00",
       "resultCount": 3,
       "bestResult": {
-        "title": "AMD Ryzen 7 9800X3D 8-Core Socket AM5 Desktop Processor 4.7GHz 100-100001084WOF",
-        "price": 325,
-        "shipping": 5.88,
-        "deliveredPrice": 330.88,
-        "condition": "New",
+        "title": "AMD Ryzen 7 9800X3D CPU Processor - Ryzen 7 Desktop CPU in Clamshell Case",
+        "price": 275,
+        "shipping": 10.59,
+        "deliveredPrice": 285.59,
+        "condition": "Open box",
         "source": "eBay",
-        "url": "https://www.ebay.com/itm/257819414594",
+        "url": "https://www.ebay.com/itm/206658504652",
         "buying": "Auction (current bid)",
-        "lastSeenUtc": "2026-10-27T11:00:02.6565913+00:00"
+        "lastSeenUtc": "2026-10-28T03:00:03.6033538+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -62,7 +62,7 @@
       "query": "5080",
       "minimumPrice": 800,
       "maximumPrice": 1450,
-      "checkedUtc": "2026-10-27T11:00:03.5393464+00:00",
+      "checkedUtc": "2026-10-28T03:00:07.1464367+00:00",
       "resultCount": 0,
       "pricing": {
         "calculatorVersion": 1,
@@ -82,7 +82,7 @@
       "query": "Samsung 49-inch Odyssey G9 240Hz",
       "minimumPrice": 500,
       "maximumPrice": 1000,
-      "checkedUtc": "2026-10-27T11:00:04.085495+00:00",
+      "checkedUtc": "2026-10-28T03:00:07.6867458+00:00",
       "resultCount": 3,
       "bestResult": {
         "title": "49 Inch Gaming Monitor (Samsung Odyssey G9 5C QHD)",
@@ -93,7 +93,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/365716556953",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-10-27T11:00:04.085495+00:00"
+        "lastSeenUtc": "2026-10-28T03:00:07.6867458+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -462,20 +462,22 @@
       }
     },
     {
-      "id": "d6ec95c4-b5ec-ab97-2f86-9ff0a7a921e8",
+      "id": "72ce5ad9-4c50-0692-36d8-69b739293f90",
       "name": "5080",
       "query": "Exact product",
       "maximumPrice": 1300,
-      "checkedUtc": "2026-10-25T11:00:08.6270088+00:00",
+      "checkedUtc": "2026-10-28T03:00:15.0040768+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "PNY, NVIDIA GeForce RTX 5080 OC Triple Fan Graphics Card, 16GB",
-        "price": 1529,
+        "price": 2349.99,
+        "shipping": 0,
+        "deliveredPrice": 2349.99,
         "condition": "Not stated",
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/18171006499",
-        "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Available; Latest attempt: EXTRACTION_ERROR",
-        "lastSeenUtc": "2026-10-25T11:00:08.6270088+00:00"
+        "buying": "Seller: VoltaTech; Fulfilled by: VoltaTech; Stock: Available; Latest attempt: SUCCESS",
+        "lastSeenUtc": "2026-10-28T03:00:15.0040768+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -504,7 +506,7 @@
         "condition": "Not stated",
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/5164703850",
-        "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: SUCCESS",
+        "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: ACCESS_DENIED",
         "lastSeenUtc": "2026-10-27T11:00:15.8565693+00:00"
       },
       "pricing": {
@@ -549,5 +551,5 @@
     }
   ],
   "project": "Scout",
-  "receivedUtc": "2026-10-27T11:00:35.071Z"
+  "receivedUtc": "2026-10-28T03:01:30.656Z"
 }
