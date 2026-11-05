@@ -3,7 +3,7 @@
   "status": "online",
   "publisher": "Scout",
   "scoutVersion": "1.5.0",
-  "generatedUtc": "2026-11-04T12:00:25.6486752+00:00",
+  "generatedUtc": "2026-11-05T04:00:27.9020388+00:00",
   "searches": [
     {
       "id": "db783e7f-cafb-4a33-b7f0-acb28c0597bd",
@@ -11,18 +11,18 @@
       "query": "9800x3d",
       "minimumPrice": 200,
       "maximumPrice": 390,
-      "checkedUtc": "2026-11-04T12:00:03.0461664+00:00",
-      "resultCount": 1,
+      "checkedUtc": "2026-11-05T04:00:02.8694648+00:00",
+      "resultCount": 2,
       "bestResult": {
         "title": "AMD 9800X3D Ryzen 7 9000 Series Processor 4.7GHz 8-Core AM5 -NEW/OPEN BOX-",
-        "price": 253,
+        "price": 273,
         "shipping": 0,
-        "deliveredPrice": 253,
+        "deliveredPrice": 273,
         "condition": "Open box",
         "source": "eBay",
         "url": "https://www.ebay.com/itm/227590389914",
         "buying": "Auction (current bid)",
-        "lastSeenUtc": "2026-11-04T12:00:03.0461664+00:00"
+        "lastSeenUtc": "2026-11-05T04:00:02.8694648+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -62,7 +62,7 @@
       "query": "5080",
       "minimumPrice": 800,
       "maximumPrice": 1450,
-      "checkedUtc": "2026-11-04T12:00:03.6230589+00:00",
+      "checkedUtc": "2026-11-05T04:00:06.2804203+00:00",
       "resultCount": 0,
       "pricing": {
         "calculatorVersion": 1,
@@ -82,7 +82,7 @@
       "query": "Samsung 49-inch Odyssey G9 240Hz",
       "minimumPrice": 500,
       "maximumPrice": 1000,
-      "checkedUtc": "2026-11-04T12:00:04.1875568+00:00",
+      "checkedUtc": "2026-11-05T04:00:06.8112333+00:00",
       "resultCount": 3,
       "bestResult": {
         "title": "49 Inch Gaming Monitor (Samsung Odyssey G9 5C QHD)",
@@ -93,7 +93,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/365716556953",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-11-04T12:00:04.1875568+00:00"
+        "lastSeenUtc": "2026-11-05T04:00:06.8112333+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -496,7 +496,7 @@
       "name": "Odyssey G9 DQHD",
       "query": "Exact product",
       "maximumPrice": 1100,
-      "checkedUtc": "2026-11-04T12:00:15.3104135+00:00",
+      "checkedUtc": "2026-11-05T04:00:16.1363916+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "Samsung, Gaming Monitor, 49\" Odyssey G9 DQHD, 240Hz, 1ms(GtG)",
@@ -507,7 +507,7 @@
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/5164703850",
         "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: SUCCESS",
-        "lastSeenUtc": "2026-11-04T12:00:15.3104135+00:00"
+        "lastSeenUtc": "2026-11-05T04:00:16.1363916+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -551,5 +551,5 @@
     }
   ],
   "project": "Scout",
-  "receivedUtc": "2026-11-04T12:00:26.552Z"
+  "receivedUtc": "2026-11-05T04:00:28.305Z"
 }
