@@ -3,7 +3,7 @@
   "status": "online",
   "publisher": "Scout",
   "scoutVersion": "1.5.0",
-  "generatedUtc": "2026-11-06T04:00:28.102741+00:00",
+  "generatedUtc": "2026-11-06T15:54:21.8584264+00:00",
   "searches": [
     {
       "id": "db783e7f-cafb-4a33-b7f0-acb28c0597bd",
@@ -462,22 +462,22 @@
       }
     },
     {
-      "id": "72ce5ad9-4c50-0692-36d8-69b739293f90",
+      "id": "ad8f99f0-b93c-6ca0-fb7b-3e9bd964bf96",
       "name": "5080",
       "query": "Exact product",
       "maximumPrice": 1300,
-      "checkedUtc": "2026-10-29T11:59:04.0736583+00:00",
+      "checkedUtc": "2026-11-06T15:52:03.4943018+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "PNY, NVIDIA GeForce RTX 5080 OC Triple Fan Graphics Card, 16GB",
-        "price": 2349.99,
+        "price": 2299.95,
         "shipping": 0,
-        "deliveredPrice": 2349.99,
+        "deliveredPrice": 2299.95,
         "condition": "Not stated",
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/18171006499",
-        "buying": "Seller: VoltaTech; Fulfilled by: VoltaTech; Stock: Available; Latest attempt: EXTRACTION_ERROR",
-        "lastSeenUtc": "2026-10-29T11:59:04.0736583+00:00"
+        "buying": "Seller: Tekdepo; Fulfilled by: Tekdepo; Stock: Available; Latest attempt: SUCCESS",
+        "lastSeenUtc": "2026-11-06T15:52:03.4943018+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -496,7 +496,7 @@
       "name": "Odyssey G9 DQHD",
       "query": "Exact product",
       "maximumPrice": 1100,
-      "checkedUtc": "2026-11-06T04:00:16.2597135+00:00",
+      "checkedUtc": "2026-11-06T15:53:18.3523811+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "Samsung, Gaming Monitor, 49\" Odyssey G9 DQHD, 240Hz, 1ms(GtG)",
@@ -507,7 +507,7 @@
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/5164703850",
         "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: SUCCESS",
-        "lastSeenUtc": "2026-11-06T04:00:16.2597135+00:00"
+        "lastSeenUtc": "2026-11-06T15:53:18.3523811+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -551,5 +551,5 @@
     }
   ],
   "project": "Scout",
-  "receivedUtc": "2026-11-06T04:00:29.387Z"
+  "receivedUtc": "2026-11-06T15:54:23.865Z"
 }
