@@ -3,7 +3,7 @@
   "status": "online",
   "publisher": "Scout",
   "scoutVersion": "1.5.0",
-  "generatedUtc": "2026-11-07T12:00:54.3996082+00:00",
+  "generatedUtc": "2026-11-08T04:00:29.886959+00:00",
   "searches": [
     {
       "id": "db783e7f-cafb-4a33-b7f0-acb28c0597bd",
@@ -11,7 +11,7 @@
       "query": "9800x3d",
       "minimumPrice": 200,
       "maximumPrice": 390,
-      "checkedUtc": "2026-11-07T12:00:02.8856369+00:00",
+      "checkedUtc": "2026-11-08T04:00:02.9533176+00:00",
       "resultCount": 4,
       "bestResult": {
         "title": "AMD Ryzen 7 9800X3D 8-Core 4.7GHz Socket AM5 CPU OEM Tray",
@@ -22,7 +22,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/237166557895",
         "buying": "Auction (current bid)",
-        "lastSeenUtc": "2026-11-07T12:00:02.8856369+00:00"
+        "lastSeenUtc": "2026-11-08T04:00:02.9533176+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -62,8 +62,19 @@
       "query": "5080",
       "minimumPrice": 800,
       "maximumPrice": 1450,
-      "checkedUtc": "2026-11-07T12:00:03.736374+00:00",
-      "resultCount": 0,
+      "checkedUtc": "2026-11-08T04:00:06.3714879+00:00",
+      "resultCount": 1,
+      "bestResult": {
+        "title": "NVIDIA GeForce RTX 5080 Founders Edition 16GB Graphics Card",
+        "price": 830,
+        "shipping": 167.06,
+        "deliveredPrice": 997.06,
+        "condition": "Open box",
+        "source": "eBay",
+        "url": "https://www.ebay.com/itm/407346081665",
+        "buying": "Auction (current bid)",
+        "lastSeenUtc": "2026-11-08T04:00:06.3714879+00:00"
+      },
       "pricing": {
         "calculatorVersion": 1,
         "target": 1200,
@@ -82,7 +93,7 @@
       "query": "Samsung 49-inch Odyssey G9 240Hz",
       "minimumPrice": 500,
       "maximumPrice": 1000,
-      "checkedUtc": "2026-11-07T12:00:04.204579+00:00",
+      "checkedUtc": "2026-11-08T04:00:09.3630556+00:00",
       "resultCount": 3,
       "bestResult": {
         "title": "49 Inch Gaming Monitor (Samsung Odyssey G9 5C QHD)",
@@ -93,7 +104,7 @@
         "source": "eBay",
         "url": "https://www.ebay.com/itm/365716556953",
         "buying": "Buy It Now",
-        "lastSeenUtc": "2026-11-07T12:00:04.204579+00:00"
+        "lastSeenUtc": "2026-11-08T04:00:09.3630556+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -466,7 +477,7 @@
       "name": "5080",
       "query": "Exact product",
       "maximumPrice": 1300,
-      "checkedUtc": "2026-11-07T12:00:07.9056325+00:00",
+      "checkedUtc": "2026-11-08T04:00:13.8605741+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "PNY, NVIDIA GeForce RTX 5080 OC Triple Fan Graphics Card, 16GB",
@@ -477,7 +488,7 @@
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/18171006499",
         "buying": "Seller: Tekdepo; Fulfilled by: Tekdepo; Stock: Available; Latest attempt: SUCCESS",
-        "lastSeenUtc": "2026-11-07T12:00:07.9056325+00:00"
+        "lastSeenUtc": "2026-11-08T04:00:13.8605741+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -496,18 +507,18 @@
       "name": "Odyssey G9 DQHD",
       "query": "Exact product",
       "maximumPrice": 1100,
-      "checkedUtc": "2026-11-07T12:00:14.5854696+00:00",
+      "checkedUtc": "2026-11-08T04:00:18.8888548+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "Samsung, Gaming Monitor, 49\" Odyssey G9 DQHD, 240Hz, 1ms(GtG)",
-        "price": 1338.99,
+        "price": 1299.99,
         "shipping": 0,
-        "deliveredPrice": 1338.99,
+        "deliveredPrice": 1299.99,
         "condition": "Not stated",
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/5164703850",
         "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: SUCCESS",
-        "lastSeenUtc": "2026-11-07T12:00:14.5854696+00:00"
+        "lastSeenUtc": "2026-11-08T04:00:18.8888548+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -551,5 +562,5 @@
     }
   ],
   "project": "Scout",
-  "receivedUtc": "2026-11-07T12:00:55.308Z"
+  "receivedUtc": "2026-11-08T04:00:30.454Z"
 }
