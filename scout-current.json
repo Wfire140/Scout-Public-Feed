@@ -3,7 +3,7 @@
   "status": "online",
   "publisher": "Scout",
   "scoutVersion": "1.5.0",
-  "generatedUtc": "2026-11-10T04:00:27.7029799+00:00",
+  "generatedUtc": "2026-11-10T19:44:24.6900405+00:00",
   "searches": [
     {
       "id": "db783e7f-cafb-4a33-b7f0-acb28c0597bd",
@@ -466,7 +466,7 @@
       "name": "5080",
       "query": "Exact product",
       "maximumPrice": 1300,
-      "checkedUtc": "2026-11-10T04:00:11.4633499+00:00",
+      "checkedUtc": "2026-11-10T19:44:01.0574545+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "PNY, NVIDIA GeForce RTX 5080 OC Triple Fan Graphics Card, 16GB",
@@ -477,7 +477,7 @@
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/18171006499",
         "buying": "Seller: Tekdepo; Fulfilled by: Tekdepo; Stock: Available; Latest attempt: SUCCESS",
-        "lastSeenUtc": "2026-11-10T04:00:11.4633499+00:00"
+        "lastSeenUtc": "2026-11-10T19:44:01.0574545+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -496,7 +496,7 @@
       "name": "Odyssey G9 DQHD",
       "query": "Exact product",
       "maximumPrice": 1100,
-      "checkedUtc": "2026-11-10T04:00:16.4025653+00:00",
+      "checkedUtc": "2026-11-10T19:44:09.1660673+00:00",
       "resultCount": 1,
       "bestResult": {
         "title": "Samsung, Gaming Monitor, 49\" Odyssey G9 DQHD, 240Hz, 1ms(GtG)",
@@ -507,7 +507,7 @@
         "source": "Walmart",
         "url": "https://www.walmart.com/ip/5164703850",
         "buying": "Seller: Walmart.com; Fulfilled by: Walmart.com; Stock: Out of stock; Latest attempt: SUCCESS",
-        "lastSeenUtc": "2026-11-10T04:00:16.4025653+00:00"
+        "lastSeenUtc": "2026-11-10T19:44:09.1660673+00:00"
       },
       "pricing": {
         "calculatorVersion": 1,
@@ -551,5 +551,5 @@
     }
   ],
   "project": "Scout",
-  "receivedUtc": "2026-11-10T04:00:28.244Z"
+  "receivedUtc": "2026-11-10T19:44:25.687Z"
 }
